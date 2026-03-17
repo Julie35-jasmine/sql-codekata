@@ -2,7 +2,7 @@
 -- 프로그래머스 기초 (⭐⭐)
 -- 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/144855
 -- 작성자: 이주은
--- 작성일: 2026. 03. 17. 20:16:13
+-- 작성일: 2026. 03. 17. 20:16:46
 
 -- 코드를 입력하세요
 SELECT B.CATEGORY, SUM(BS.SALES) AS TOTAL_SALES
